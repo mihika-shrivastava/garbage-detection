@@ -47,7 +47,7 @@ In these areas with polluted environments and ineffective waste management, abdo
   
   
 <h3>Team Members</h3> 
-<a href="https://github.com/Call-for-Code/Project-Sample/graphs/contributors">
+<a href="https://github.com/mihika-shrivastava/garbage-detection/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=mihika-shrivastava/garbage-detection" />
 </a>
 <br>

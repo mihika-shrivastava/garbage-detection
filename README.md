@@ -57,7 +57,7 @@ Gomathi Raveendran (raveendrangomathi@gmail.com)
 <br>
 Kaaviya Ramesh (kaaviya151gr8@gmail.com)
 <br>
-Sonali Balachandran (sonakashi.bc@gmail.com)
+Sonali Balachandran(sonakashi.bc@gmail.com)
 <br>
 Swetha Manukonda (smanukonda0@gmail.com)
 <br>

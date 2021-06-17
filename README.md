@@ -50,11 +50,11 @@ In these areas with polluted environments and ineffective waste management, abdo
 <a href="https://github.com/Call-for-Code/Project-Sample/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=mihika-shrivastava/garbage-detection" />
 </a>
-@mihika-shrivastava
-@GomathiRaveendran
-@kaaviyaramesh
-@sonali-bc
-@swethamanu
+Mihika Shrivastava (mihikashri@gmail.com)
+Gomathi Raveendran (raveendrangomathi@gmail.com)
+Kaaviya Ramesh (kaaviya151gr8@gmail.com)
+Sonali Balachandran (sonakashi.bc@gmail.com)
+Swetha Manukonda (smanukonda0@gmail.com)
   
   
   

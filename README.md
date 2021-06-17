@@ -39,7 +39,7 @@ In these areas with polluted environments and ineffective waste management, abdo
   
   
   <h1>Long Description</h1>
-[More detail is available here](./docs/long-description.md)
+<a href= './docs/long-description.md'>More detail is available here</a>
   
   
   
@@ -49,6 +49,7 @@ In these areas with polluted environments and ineffective waste management, abdo
 <h3>Team Members</h3> 
 <a href="https://github.com/Call-for-Code/Project-Sample/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=mihika-shrivastava/garbage-detection" />
+  <img src="https://avatars.githubusercontent.com/u/69666461?v=4" />
 </a>
 <br>
 Mihika Shrivastava (mihikashri@gmail.com)

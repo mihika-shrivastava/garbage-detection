@@ -1,1 +1,1 @@
-<h1>Garbage Detection</h1>
+<h1>Garbage Detection: Leading the way to cleaner cities</h1>

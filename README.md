@@ -11,7 +11,14 @@
       <li>The idea</li>
      </ul>
   </ul>
-  <li>Demo Video</li>
+  <li>Presentation Video</li>
+  <li>The Architecture</li>
+  <li>Long Description</li>
+  <li>Project Roadmap</li>
+  <li>Demo</li>
+  <li>Resources Used</li>
+  <Team Members</li>
+  <li>Acknowledgements</li>
  </ul>
 
 <h2>Short Description</h2>
@@ -26,7 +33,38 @@ In these areas with polluted environments and ineffective waste management, abdo
 <h3>The idea</h3>
 <p>As the country gets more digitally connected, more and more people order commodities to be directly delivered to ther houses. This results in a lot of delivery-people driving into neighbourhoods in and around the city. If we were to fit a smart camera in association with an inference engine in these vehicles, we could get the location of many local garbage dumps and thereby inform the concerned authorities to take suitable action.<br>
   We can also further use these techniques of artificial learning and neural networks to identify and segregate the waste so that they can be properly disposed.
-      
-      
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<h3>Team Members</h3> 
+<a href="https://github.com/Call-for-Code/Project-Sample/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=mihika-shrivastava/garbage-detection" />
+</a>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
       
    

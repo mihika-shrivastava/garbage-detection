@@ -52,7 +52,7 @@ In these areas with polluted environments and ineffective waste management, abdo
 </a>
 <br>
 Mihika Shrivastava (mihikashri@gmail.com)
-<br>
+<br> 
 Gomathi Raveendran (raveendrangomathi@gmail.com)
 <br>
 Kaaviya Ramesh (kaaviya151gr8@gmail.com)

@@ -38,8 +38,8 @@ In these areas with polluted environments and ineffective waste management, abdo
   
   
   
-  
-  
+  <h1>Long Description</h1>
+[More detail is available here](./docs/long-description.md)
   
   
   

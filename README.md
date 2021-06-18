@@ -40,6 +40,7 @@ In these areas with polluted environments and ineffective waste management, abdo
  
  
  <h2>The Architecture</h2>
+ <img src="./pictures/architecture.png">
   
   
   <h2>Long Description</h2>

@@ -41,8 +41,11 @@ In these areas with polluted environments and ineffective waste management, abdo
   <h1>Long Description</h1>
 <a href= './long-description.md'>More detail is available here</a>
   
-  
-  
+
+<h2>Project Roadmap</h2>
+
+<h2>Demo</h2>
+
   
   
   

@@ -45,6 +45,10 @@ In these areas with polluted environments and ineffective waste management, abdo
   
   <h2>Long Description</h2>
 <a href= './long-description.md'>More detail is available here</a>
+
+ <h2>Project Roadmap</h2>
+ <p>Our project detects trash on streets through a hardware unit called an inference engine hard coded with a machine learning algorithm. It marks the locations where trash is detected on a map.</p>
+ 
   
 
 <h2>Demo</h2>

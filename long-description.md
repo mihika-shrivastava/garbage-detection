@@ -17,10 +17,11 @@
   </p>
 
 <h2>Step 2: Getting the Location & the Hardware</h2>
-<p>The frames where garbage was detected would be sent along with the GPS co-ordinates of the location where the frame was taken and sent to Node-RED, a service provided by IBM that makes connecting IoT devices to web applications simple.</p>
+<p>The frames where garbage was detected would be sent along with the GPS co-ordinates of the location where the frame was taken and sent to Node-RED via MQTT protocol, Node-RED is a service provided by IBM that makes connecting IoT devices to web applications simple.</p>
 
 
 <h2>Step 3: Working with the Location</h2>
 <p>On recieving the location, coordinates (latitude and longitude) are stored in a database (IBM's cloudant) where we've represented each location with a document. The cordinates are then retrieved and markers are placed on a map using python library (folium) and will be displayed in our web application. Concerned authorities can then be able to collect the garbage and treat it using appropriate techniques. </p>
 
 <h3>Alternative:</h3>
+<p>The inference machine can be directly tracked using HERE tracking to display details about the locations of garbage found.</p>

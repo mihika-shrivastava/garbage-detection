@@ -1,7 +1,7 @@
 # Garbage Detection: Leading the way to cleaner cities.
 <h2>Content</h2>
 <ul>
-  <li>Submission or project name</li>
+  <li>Submission/Project name</li>
   <ul>
     <li>Content</li>
     <li>Short Description</li>
@@ -48,7 +48,16 @@ In these areas with polluted environments and ineffective waste management, abdo
   
 <h2>Team Members</h2> 
 <a href="https://github.com/mihika-shrivastava/garbage-detection/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=mihika-shrivastava/garbage-detection" />
+  <!--img src="https://contributors-img.web.app/image?repo=mihika-shrivastava/garbage-detection" /-->
+  <img src= "https://avatars.githubusercontent.com/u/59635299?v=4" width="40" height="40">
+  <img src= "https://avatars.githubusercontent.com/u/59409466?v=4" width="40" height="40">
+  <img src= "https://avatars.githubusercontent.com/u/85937991?v=4" width="40" height="40">
+  <img src= "https://avatars.githubusercontent.com/u/85939314?v=4" width="40" height="40">
+  <img src= "https://avatars.githubusercontent.com/u/69666461?v=4" width="40" height="40">
+  
+  
+  
+  
 </a>
 <br>
 Mihika Shrivastava (mihikashri@gmail.com)

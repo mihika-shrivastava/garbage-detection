@@ -45,8 +45,10 @@ In these areas with polluted environments and ineffective waste management, abdo
 <h2>Project Roadmap</h2>
 
 <h2>Demo</h2>
-
-  
+<h3>on a still image:</h3>
+<img src= "https://github.com/mihika-shrivastava/garbage-detection/blob/main/pictures/sample1%20(1).jpg">
+<h3>on a video:</h3>
+<img src= "https://github.com/mihika-shrivastava/garbage-detection/blob/main/pictures/sample2.gif">
   
   
 <h2>Team Members</h2> 

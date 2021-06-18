@@ -12,3 +12,4 @@
 
 <h2>Step 3: Working with the Location</h2>
 <p>another small intro here</p>
+<h3>Alternative:</h3>

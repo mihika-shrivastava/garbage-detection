@@ -11,5 +11,6 @@
 
 
 <h2>Step 3: Working with the Location</h2>
-<p>The cordinates are then marked and displayed in a map using (name of the api) API and displayed in our web application to make it easier to identify which parts of the city needs to be cleaned</p>
+<p>On recieving the location, coordinates (latitude and longitude) are stored in a database (IBM's cloudant) where we've represented each location with a document. The cordinates are then retrieved and markers are placed on a map using python library (folium) and will be displayed in our web application. Concerned authorities can then be able to collect the garbage and treat it using appropriate techniques. </p>
+
 <h3>Alternative:</h3>

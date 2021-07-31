@@ -36,7 +36,8 @@ In these areas with polluted environments and ineffective waste management, abdo
 
   
  <h2>Presentation Video</h2>
- <a href= 'https://youtu.be/D9JnW2KTEbE'>Link to the youtube video</a>
+ <a href= 'https://youtu.be/VTUTzssDvWE'>Link to the UPDATED youtube video: Call for Code submission</a>
+ <a href= 'https://youtu.be/D9JnW2KTEbE'>Link to the previous youtube video: Wit Hackathon submission</a>
  
  
  <h2>The Architecture</h2>
@@ -75,7 +76,6 @@ In these areas with polluted environments and ineffective waste management, abdo
   <img src= "https://avatars.githubusercontent.com/u/59635299?v=4" width="40" height="40">
   <img src= "https://avatars.githubusercontent.com/u/59409466?v=4" width="40" height="40">
   <img src= "https://avatars.githubusercontent.com/u/85937991?v=4" width="40" height="40">
-  <img src= "https://avatars.githubusercontent.com/u/85939314?v=4" width="40" height="40">
   <img src= "https://avatars.githubusercontent.com/u/69666461?v=4" width="40" height="40">
   
   
@@ -88,8 +88,6 @@ Mihika Shrivastava (mihikashri@gmail.com)
 Gomathi Raveendran (raveendrangomathi@gmail.com)
 <br>
 Kaaviya Ramesh (kaaviya151gr8@gmail.com)
-<br>
-Sonali Balachandran(sonakashi.bc@gmail.com)
 <br>
 Swetha Manukonda (smanukonda0@gmail.com)
 <br>

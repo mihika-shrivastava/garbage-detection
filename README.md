@@ -85,7 +85,7 @@ In these areas with polluted environments and ineffective waste management, abdo
 <br>
 Mihika Shrivastava (mihikashri@gmail.com)
 <br> 
-Gomathi Raveendran (raveendrangomathi@gmail.com)
+Gomathi Raveendran
 <br>
 Kaaviya Ramesh (kaaviya151gr8@gmail.com)
 <br>
